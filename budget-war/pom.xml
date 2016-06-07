@@ -8,7 +8,7 @@
 		<artifactId>budget</artifactId>
 		<version>0.0.1</version>
 	</parent>
-	<artifactId>budget-web</artifactId>
+	<artifactId>budget-war</artifactId>
 	<packaging>war</packaging>
 	<build>
 		<finalName>budget-war</finalName>

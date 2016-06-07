@@ -9,7 +9,9 @@
 	
 	<modules>
     	<module>budget-persistence</module>
-  	</modules>
+    	<module>budget-model</module>
+    	<module>budget-war</module>
+  </modules>
 	<properties>
 	  <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
